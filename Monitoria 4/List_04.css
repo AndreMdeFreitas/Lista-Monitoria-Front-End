@@ -1,0 +1,33 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.um{
+    background-color: maroon;
+}
+.dois{
+    background-color: rgb(64, 0, 255);
+}
+.tres{
+    background-color: magenta;
+}
+
+li{
+    display: inline-block;
+    width: 200px;
+    height: 300px;
+    margin: 10px;
+    color: white;
+    text-align: center;
+}
+
+b{
+    display: inline-block;
+    margin: 2px;
+    border: white 2px solid;
+    background-color: gold;
+    border-radius: 5px;
+}
+
+li:hover{
+    border: rgb(3, 255, 129) 10px solid;
+}
