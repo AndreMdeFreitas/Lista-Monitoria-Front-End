@@ -1,0 +1,32 @@
+*{
+    background-color: goldenrod;
+}
+body{
+    margin: 10%;
+}
+p{
+    background-color: wheat;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border: solid black 2px;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: justify;
+}
+.paragrafo_primeiro{
+    border-top: solid black 2px;
+    border-bottom: dashed black 1px;
+}
+.paragrafo_meio{
+    border-top: 0px;
+    border-bottom: dashed black 1px;
+}
+.paragrafo_ultimo{
+    border-top: 0px;
+}
+p:hover,
+p:focus{
+    background-color: green;
+    border: 2px red solid;
+}
