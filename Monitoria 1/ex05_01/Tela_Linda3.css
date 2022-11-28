@@ -1,0 +1,30 @@
+
+            #primeiro {
+                color: blueviolet;
+                font-size: 40px;
+            }
+            #segundo {
+                color: rgb(218, 28, 28);
+                font-size: 35px;
+            }
+            #terceiro {
+                color: rgb(214, 244, 24);
+                font-size: 30px;
+            }
+            #quarto {
+                color: rgb(144, 87, 149);
+                font-size: 25px;
+            }
+            #quinto {
+                color: rgb(32, 232, 119);
+                font-size: 10px;
+            }
+            #sexto {
+                color: rgb(53, 10, 155);
+                font-size: 15px;
+            }
+            #secreto {
+                color: rgb(4, 41, 29);
+                font-size: xx-small;
+            }
+      
