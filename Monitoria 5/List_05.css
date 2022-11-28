@@ -1,0 +1,67 @@
+.container{
+    background-color: gray;
+    border: 5px solid black;
+    display: flex;
+    align-items: baseline;
+}
+
+.bar_1{
+    width: 5%;
+    height: 50px;
+    background-color: chocolate;
+    border: solid 3px black;
+    margin-left: 10px;
+    margin-right: 5px;
+    margin-top: 500px;
+    margin-bottom: 5px;
+}
+.bar_2{
+    width: 5%;
+    height: 100px;
+    background-color: chocolate;
+    border: solid 3px black;
+    margin-left: 10px;
+    margin-right: 5px;
+    margin-top: 500px;
+    margin-bottom: 5px;
+}
+.bar_3{
+    width: 5%;
+    height: 150px;
+    background-color: chocolate;
+    border: solid 3px black;
+    margin-left: 10px;
+    margin-right: 5px;
+    margin-top: 500px;
+    margin-bottom: 5px;
+}
+.bar_4{
+    width: 5%;
+    height: 200px;
+    background-color: chocolate;
+    border: solid 3px black;
+    margin-left: 10px;
+    margin-right: 5px;
+    margin-top: 500px;
+    margin-bottom: 5px;
+}
+.bar_5{
+    width: 5%;
+    height: 250px;
+    background-color: chocolate;
+    border: solid 3px black;
+    margin-left: 10px;
+    margin-right: 5px;
+    margin-top: 500px;
+    margin-bottom: 5px;
+}
+.bar_6{
+    width: 5%;
+    height: 300px;
+    background-color: chocolate;
+    border: solid 3px black;
+    margin-left: 10px;
+    margin-right: 5px;
+    margin-top: 500px;
+    margin-bottom: 5px;
+}

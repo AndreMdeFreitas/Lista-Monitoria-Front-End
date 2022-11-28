@@ -1,0 +1,65 @@
+.Title{
+    border: 20px solid black;
+}
+
+.borda{
+    border: 5px solid black;
+    margin: 5px;
+    background-color: aqua;
+}
+.Minha-Loja-Top{
+    font-size: 30px;
+    text-align: center;
+    border: 3px solid black;
+    border-radius: 15px;
+    margin: 5px auto;
+    width: 95%;
+}
+
+.barra-nav{
+    display: flex;
+    background-color: rgb(38, 42, 46);
+}
+
+.item-nav{
+    color: red;
+    border: black solid 2px;
+    display: flex;
+    height: 100%;
+}
+
+.item{
+    padding-top: 15px;
+}
+
+.table{
+    border: 10px solid black;
+    margin-top: 10px;
+}
+
+.title{
+    text-align: center;
+    border-bottom: 2px solid black;
+    margin-bottom: 0px; 
+}
+
+.item-nav:hover{
+    background-color: red;
+    color: white;
+}
+
+.product-item{
+    border-bottom: 1px solid red;
+    border-right: 1px solid red;
+    margin-bottom: 0px;
+}
+
+.row{
+    margin: 0px;
+}
+
+@media screen and (max-width: 992px){
+    .barra-nav{
+        display: block;
+    }
+}

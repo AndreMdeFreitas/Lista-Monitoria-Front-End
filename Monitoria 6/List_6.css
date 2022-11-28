@@ -1,0 +1,95 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: lightblue;
+    height: 100%;
+    width: 100%;
+}
+
+html{
+    height: 100%;
+    width: 100%;
+}
+
+header {
+    background-color: chocolate;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100px;
+    border-bottom-left-radius: 35px;
+    border-bottom-right-radius: 35px;
+    /* padding, margin, border one line
+    top right bottom left */
+}
+
+.p-menu{
+    color: blue;
+    font-size: 20px;
+}
+.menu-element {
+    display: flex;
+    justify-content: center;
+    border-bottom: 3px solid blue;
+    padding: 30px;
+    margin: 7px;
+}
+
+.first-menu {
+    border-left: 3px solid blue;
+    border-bottom-left-radius: 35px;
+    flex-grow: 0.25;
+    margin-right: 20px;
+}
+
+.second-menu {
+    flex-grow: 1;
+}
+
+.last-menu {
+    border-right: 3px solid blue;
+    border-bottom-right-radius: 35px;
+    flex-grow: 0.25;
+    margin-left: 20px;
+}
+
+.box {
+    background-color: white;
+    border-radius: 35px;
+    height: 100%;
+    width: 100%;
+    display: flex;
+}
+
+.borda-laranja-arredondada {
+    border-style: solid;
+    border-color: orange;
+    border-radius: 35px;
+    width: 25%;
+    height: 25%;
+    padding: 15px;
+    margin: 15px;
+    height: 400px;
+}
+
+li{
+    list-style-type: none;
+    padding: 10px;
+}
+
+.orange-circle{
+    border-style: solid;
+    border-color: orange;
+    border-radius: 35px;
+    background-color: orange;
+    align-self: center;
+    height: 100px;
+    width: 100px;
+}
+
+#borda-laranja-arredondada-dois{
+    align-self: flex-end;
+}
